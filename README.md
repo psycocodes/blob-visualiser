@@ -25,11 +25,7 @@ Blob3D is a 3D component project built using Three.js and React. It creates an a
    ```
 ## Screenshots
 
-### Screenshot 1
-
 ![Screenshot 1](screenshots/1.png)
-
-### Screenshot 2
 
 ![Screenshot 2](screenshots/2.png)
 ## Usage

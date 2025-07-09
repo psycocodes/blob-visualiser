@@ -4,7 +4,7 @@ import Blob from "./components/Blob";
 import { useEffect } from "react";
 import { useRef, useState } from "react";
 
-var THEME_INDEX = 0; // Change the theme index to switch between gradients
+var THEME_INDEX = 1; // Change the theme index to switch between gradients
 
 function useMicrophoneAccess() {
   useEffect(() => {
