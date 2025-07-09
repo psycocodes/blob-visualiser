@@ -1,6 +1,6 @@
-# Blob3D
+# Blob Visualiser
 
-Blob3D is a 3D component project built using Three.js and React. It creates an animated blob with customizable themes and gradients.
+Blob Visualiser is a 3D component project built using Three.js and React. It creates an animated blob with customizable themes and gradients and reacts on audio input to adjust its intensity.
 
 ## Features
 
@@ -13,7 +13,7 @@ Blob3D is a 3D component project built using Three.js and React. It creates an a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/blob3d.git
+   git clone https://github.com/psycocodes/blob-visualiser.git
    cd blob3d
    ```
 
